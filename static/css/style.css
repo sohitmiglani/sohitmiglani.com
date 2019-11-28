@@ -21,7 +21,7 @@ text-transform: uppercase;
 	color: #f74d65;
 }
 header{
-	background: url(/users/sohit/Desktop/wesbite/images/head.jpg);
+	background: url(../static/images/head.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 }
@@ -167,7 +167,7 @@ padding-top: 110px;
 
 /*Fun Facts*/
 .fun_facts{
-	background: url(/users/sohit/Desktop/website/static/images/header_bg.jpg);
+	background: url(static/images/back2.jpg);
 	background-repeat: repeat;
 	background-size: 100px;
 
@@ -345,11 +345,6 @@ margin-bottom: 1px;
 font-size: 15px;
 color: #3d3d3d;
 }
-
-
-
-
-
 
 .contact-form{
 background-color: #f1f1f1;
